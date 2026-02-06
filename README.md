@@ -53,7 +53,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none">
     <img height="180em" src="https://mystats-pi.vercel.app/api?username=Antonela89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://mystats-pi.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+    <img height="180em" src="https://mystats-pi.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook"/>
   </a>
 </div>
 
