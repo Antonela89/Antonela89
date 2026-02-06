@@ -53,7 +53,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
 </p>
 
 <p align="center">
-  <img src="https://mystats-pi.vercel.app/?user=Antonela89&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonela89&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </p>
 
 ### 📊 Actividad en Código
