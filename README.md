@@ -56,6 +56,15 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonela89&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </p>
 
+### 📊 Actividad en Código
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonela89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  </a>
+</div>
+
 ### ⚡ ¿Por qué trabajar conmigo?
 
 Más allá del código, aporto valor a través de buenas prácticas:
