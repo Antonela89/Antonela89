@@ -45,23 +45,23 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonela89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://mystats-pi.vercel.app/api?username=Antonela89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+  <img src="https://mystats-pi.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonela89&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://mystats-pi.vercel.app/?user=Antonela89&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </p>
 
 ### 📊 Actividad en Código
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonela89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+    <img height="180em" src="https://mystats-pi.vercel.app/api?username=Antonela89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://mystats-pi.vercel.app/api/top-langs/?username=Antonela89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
   </a>
 </div>
 
