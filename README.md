@@ -68,12 +68,12 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
       </div>
       <br />
       <p align="center">
-        <strong>Stack:</strong> TypeScript, Express, Mongo, HTML, CSS, Tailwinds, Javascript, Monorepo.
+        <strong>Stack:</strong> TypeScript, Express, Node.js, Mongo, HTML, CSS, Tailwinds, Javascript, Monorepo.
         <br />
-        Sistema de gestión con autenticación y dashboard.
+         API RESTful y Frontend para Eco-Garden, una aplicación de gestión de huertas urbanas. 
       </p>
       <div align="center">
-        <a href="LINK_AL_REPO">
+        <a href="https://github.com/Antonela89/eco-garden">
           <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
         </a>
         <a href="https://ecogarden-w8ks.onrender.com">
