@@ -64,7 +64,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%">
       <h3 align="center">Eco-Garden</h3>
       <div align="center">
-        <img src="https://res.cloudinary.com/antonelab/video/upload/v1770478240/GitHub%20-%20Proyectos%20-%20Gif/Bienvenido_a_Eco-Garden_Mozilla_Firefox_2026-02-07_12-28-15_im1lsq.mp4" alt="Preview Proyecto 1: Eco-Garden" width="100%" style="border-radius: 10px;" />
+        <img src="https://res.cloudinary.com/antonelab/image/upload/v1770478607/GitHub%20-%20Proyectos%20-%20Gif/Bienvenido_a_Eco-Garden_Mozilla_Firefox_2026-02-07_12-28-15_jpyykm.gif" alt="Preview Proyecto 1: Eco-Garden" width="100%" style="border-radius: 10px;" />
       </div>
       <br />
       <p align="center">
