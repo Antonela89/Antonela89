@@ -57,6 +57,53 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
   </a>
 </div>
 
+<h3 align="left">🚀 Mis Proyectos Destacados</h3>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Eco-Garden</h3>
+      <div align="center">
+        <img src="LINK_A_TU_IMAGEN_O_GIF_AQUI" alt="Preview Proyecto 1" width="100%" style="border-radius: 10px;" />
+      </div>
+      <br />
+      <p align="center">
+        <strong>Stack:</strong> TypeScript, Express, Mongo, HTML, CSS, Tailwinds, Javascript, Monorepo.
+        <br />
+        Sistema de gestión con autenticación y dashboard.
+      </p>
+      <div align="center">
+        <a href="LINK_AL_REPO">
+          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+        <a href="https://ecogarden-w8ks.onrender.com">
+          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">NOMBRE DEL PROYECTO 2 (JS Vanilla)</h3>
+      <div align="center">
+        <img src="LINK_A_TU_IMAGEN_O_GIF_AQUI" alt="Preview Proyecto 2" width="100%" style="border-radius: 10px;" />
+      </div>
+      <br />
+      <p align="center">
+        <strong>Stack:</strong> JavaScript, HTML, CSS.
+        <br />
+        Aplicación con manejo de DOM y consumo de APIs.
+      </p>
+      <div align="center">
+        <a href="LINK_AL_REPO">
+          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+        <a href="LINK_AL_DEPLOY_SI_TIENES">
+          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ### ⚡ ¿Por qué trabajar conmigo?
 
 Más allá del código, aporto valor a través de buenas prácticas:
