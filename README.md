@@ -60,136 +60,112 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
 
 <h3 align="left">🚀 Mis Proyectos Destacados</h3>
 
-<table>
+<table width="100%">
   <tr>
     <!-- Eco-garden -->
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Eco-Garden</h3>
       <div align="center">
-        <img src="./img/Eco-Garden.gif" alt="Preview Proyecto 1: Eco-Garden" width="100%" style="border-radius: 10px;" />
+        <img src="./img/Eco-Garden.gif" alt="Eco-Garden" width="100%" style="border-radius: 10px;" />
       </div>
-      <hr />
       <p align="center">
-        <strong>Stack:</strong> TypeScript, Express, Node.js, Mongo, HTML, CSS, Tailwinds, Javascript, Monorepo.
-        <hr />
+        <strong>Stack:</strong><br>TypeScript, Express, Node.js, Mongo, HTML, CSS, Tailwinds, Javascript, Monorepo.
+      </p>
+      <p align="center" style="font-size: 0.9em;">
          API RESTful y Frontend para Eco-Garden, una aplicación de gestión de huertas urbanas. 
       </p>
       <div align="center">
-        <a href="https://github.com/Antonela89/eco-garden">
-          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
-        </a>
-        <a href="https://ecogarden-w8ks.onrender.com">
-          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
-        </a>
+        <a href="https://github.com/Antonela89/eco-garden" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://ecogarden-w8ks.onrender.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
     <!-- SuperHero -->
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">SuperHero-ADA</h3>
       <div align="center">
-        <img src="./img/SuperHero-ADA.gif" alt="Preview Proyecto 2: SuperHero - ADA" width="100%" style="border-radius: 10px;" />
+        <img src="./img/SuperHero-ADA.gif" alt="SuperHero - ADA" width="100%" style="border-radius: 10px;" />
       </div>
-      <hr />
       <p align="center">
-        <strong>Stack:</strong> JavaScript, HTML, CSS.
-        <hr />
+        <strong>Stack:</strong><br>JavaScript, HTML, CSS.
+      </p>
+      <p align="center" style="font-size: 0.9em;">
         Aplicación con manejo de DOM y consumo de APIs.
       </p>
       <div align="center">
-        <a href="https://github.com/Antonela89/SuperHeroADA-Front">
-          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
-        </a>
-        <a href="https://superhero-ada.vercel.app/">
-          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
-        </a>
+        <a href="https://github.com/Antonela89/SuperHeroADA-Front" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://superhero-ada.vercel.app/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
   </tr>
   <tr>
-  <!-- Book-api -->
-    <td width="50%">
+    <!-- Book-api -->
+    <td width="50%" valign="top">
       <h3 align="center">BOOK-API-ADA</h3>
       <div align="center">
-        <img src="./img/book-api-ADA.gif" alt="Preview Proyecto 3: Book-Api-ADA" width="100%" style="border-radius: 10px;" />
+        <img src="./img/book-api-ADA.gif" alt="Book-Api-ADA" width="100%" style="border-radius: 10px;" />
       </div>
-      <hr />
       <p align="center">
-        <strong>Stack:</strong> 
-        <hr />
-         Aplicación de consola completa para la gestión de una biblioteca, desarrollada en Node.js. Consiste en un servidor TCP que maneja la lógica de negocio y la persistencia de datos, y un cliente de terminal interactivo que permite a los usuarios interactuar con la API de una manera intuitiva y guiada.
+        <strong>Stack:</strong><br>Node.js, TCP Server, CLI.
+      </p>
+      <p align="center" style="font-size: 0.9em;">
+         Servidor TCP para gestión de biblioteca con cliente de terminal interactivo para interacción fluida con la API.
       </p>
       <div align="center">
-        <a href="https://github.com/Antonela89/book-api-ADA">
-          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
-        </a>
-        <a href="https://replit.com/@AntonelaBorgogn/book-api-ADA">
-          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
-        </a>
+        <a href="https://github.com/Antonela89/book-api-ADA" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://replit.com/@AntonelaBorgogn/book-api-ADA" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
-    <td width="50%">
     <!-- Humaya -->
+    <td width="50%" valign="top">
       <h3 align="center">Humaya</h3>
       <div align="center">
-        <img src="./img/HUMAYA.gif" alt="Preview Proyecto 4 - Humaya" width="100%" style="border-radius: 10px;" />
+        <img src="./img/HUMAYA.gif" alt="Humaya" width="100%" style="border-radius: 10px;" />
       </div>
-      <hr />
       <p align="center">
-        <strong>Stack:</strong> JavaScript, HTML, CSS, Bootstrap.
-        <hr />
-        Proyecto Humaya: Tradición en dulces. Maquetado moderno con Bootstrap, JavaScript ES6. - Tp Codo a Codo React 2023
+        <strong>Stack:</strong><br>JavaScript, HTML, CSS, Bootstrap.
+      </p>
+      <p align="center" style="font-size: 0.9em;">
+        Maquetado moderno con Bootstrap y JavaScript ES6 para marca de dulces tradicionales.
       </p>
       <div align="center">
-        <a href="https://github.com/Antonela89/humaya">
-          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
-        </a>
-        <a href="https://antonela89.github.io/humaya/">
-          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
-        </a>
+        <a href="https://github.com/Antonela89/humaya" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://antonela89.github.io/humaya/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
   </tr>
   <tr>
-  <!-- React TV -->
-    <td width="50%">
+    <!-- React TV -->
+    <td width="50%" valign="top">
       <h3 align="center">React TV</h3>
       <div align="center">
-        <img src="./img/SweetHome.gif" alt="Preview Proyecto 5: React TV" width="100%" style="border-radius: 10px;" />
+        <img src="./img/React-TV.gif" alt="React TV" width="100%" style="border-radius: 10px;" />
       </div>
-      <hr />
       <p align="center">
-        <strong>Stack:</strong> React, Material UI, Firebase, API-TMDB
-        <hr /> 
-        Plataforma de streaming inspirada en Netflix desarrollada con React. Incluye autenticación con Firebase, consumo de API de TMDB y diseño responsivo con Material UI. 
+        <strong>Stack:</strong><br>React, Material UI, Firebase, API-TMDB.
+      </p>
+      <p align="center" style="font-size: 0.9em;">
+        Plataforma de streaming con autenticación Firebase y consumo de API TMDB.
       </p>
       <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
-        </a>
-        <a href="https://reac-tv.vercel.app/">
-          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
-        </a>
+        <a href="#" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://reac-tv.vercel.app/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
-    <td width="50%">
     <!-- Seewhome -->
+    <td width="50%" valign="top">
       <h3 align="center">SWEETHOME</h3>
       <div align="center">
-        <img src="https://res.cloudinary.com/antonelab/image/upload/v1771127974/GitHub%20-%20Proyectos%20-%20Gif/SweetHome_mdm3dk.gif" alt="Preview Proyecto 6: SweetHome" width="100%" style="border-radius: 10px;" />
+        <img src="./img/SweetHome.gif" alt="SweetHome" width="100%" style="border-radius: 10px;" />
       </div>
-      <hr />
       <p align="center">
-        <strong>Stack:</strong> JavaScript, HTML, CSS.
-        <hr />
-        Página de adopción de mascotas.
+        <strong>Stack:</strong><br>JavaScript, HTML, CSS.
+      </p>
+      <p align="center" style="font-size: 0.9em;">
+        Página landing interactiva para adopción de mascotas.
       </p>
       <div align="center">
-        <a href="https://github.com/Antonela89/SWEETHOME">
-          <img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" />
-        </a>
-        <a href="https://antonela89.github.io/SWEETHOME/">
-          <img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" />
-        </a>
+        <a href="https://github.com/Antonela89/SWEETHOME" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://antonela89.github.io/SWEETHOME/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
   </tr>
