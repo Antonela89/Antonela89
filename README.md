@@ -66,7 +66,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%">
       <h3 align="center">Eco-Garden</h3>
       <div align="center">
-        <img src="https://res.cloudinary.com/antonelab/image/upload/v1770478607/GitHub%20-%20Proyectos%20-%20Gif/Bienvenido_a_Eco-Garden_Mozilla_Firefox_2026-02-07_12-28-15_jpyykm.gif" alt="Preview Proyecto 1: Eco-Garden" width="100%" style="border-radius: 10px;" />
+        <img src="./img/Eco-Garden.gif" alt="Preview Proyecto 1: Eco-Garden" width="100%" style="border-radius: 10px;" />
       </div>
       <hr />
       <p align="center">
@@ -87,7 +87,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%">
       <h3 align="center">SuperHero-ADA</h3>
       <div align="center">
-        <img src="https://res.cloudinary.com/antonelab/image/upload/v1770481660/GitHub%20-%20Proyectos%20-%20Gif/SuperHero_-_ADA_Mozilla_Firefox_2026-02-07_13-24-10_uxhqar.gif" alt="Preview Proyecto 2: SuperHero - ADA" width="100%" style="border-radius: 10px;" />
+        <img src="./img/SuperHero-ADA.gif" alt="Preview Proyecto 2: SuperHero - ADA" width="100%" style="border-radius: 10px;" />
       </div>
       <hr />
       <p align="center">
@@ -110,7 +110,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%">
       <h3 align="center">BOOK-API-ADA</h3>
       <div align="center">
-        <img src="https://res.cloudinary.com/antonelab/image/upload/v1771121183/GitHub%20-%20Proyectos%20-%20Gif/book-api-ADA_-_Replit_gjqeh6.gif" alt="Preview Proyecto 3: Book-Api-ADA" width="100%" style="border-radius: 10px;" />
+        <img src="./img/book-api-ADA.gif" alt="Preview Proyecto 3: Book-Api-ADA" width="100%" style="border-radius: 10px;" />
       </div>
       <hr />
       <p align="center">
@@ -131,7 +131,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <!-- Humaya -->
       <h3 align="center">Humaya</h3>
       <div align="center">
-        <img src="https://res.cloudinary.com/antonelab/image/upload/v1771125346/GitHub%20-%20Proyectos%20-%20Gif/HUMAYA_gneioz.gif" alt="Preview Proyecto 4 - Humaya" width="100%" style="border-radius: 10px;" />
+        <img src="./img/HUMAYA.gif" alt="Preview Proyecto 4 - Humaya" width="100%" style="border-radius: 10px;" />
       </div>
       <hr />
       <p align="center">
@@ -154,8 +154,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%">
       <h3 align="center">React TV</h3>
       <div align="center">
-      <!-- Falta gif -->
-        <img src="" alt="Preview Proyecto 5: React TV" width="100%" style="border-radius: 10px;" />
+        <img src="./img/SweetHome.gif" alt="Preview Proyecto 5: React TV" width="100%" style="border-radius: 10px;" />
       </div>
       <hr />
       <p align="center">
