@@ -138,7 +138,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%" valign="top">
       <h3 align="center">React TV</h3>
       <div align="center">
-        <img src="./img/React-TV.gif" alt="React TV" width="100%" style="border-radius: 10px;" />
+        <img src="./img/ReactTV.gif" alt="React TV" width="100%" style="border-radius: 10px;" />
       </div>
       <p align="center">
         <strong>Stack:</strong><br>React, Material UI, Firebase, API-TMDB.
