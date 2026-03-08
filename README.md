@@ -83,7 +83,7 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
     <td width="50%" valign="top">
       <h3 align="center">BiblioNext</h3>
       <div align="center">
-        <img src="./img/BiblioNext.gif" alt="BiblioNext" width="100%" style="border-radius: 10px;" />
+        <img src="./img/BiblioNEXT.gif" alt="BiblioNext" width="100%" style="border-radius: 10px;" />
       </div>
       <p align="center">
         <strong>Stack:</strong><br>TypeScript, Next.js, Mongo, mongoose, Tailwinds, Monorepo, FullStack.
