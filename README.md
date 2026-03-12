@@ -92,8 +92,8 @@ Estoy buscando mi próxima oportunidad **Remota** como Desarrolladora Full Stack
          Gestión profesional de libros, socios y préstamos. Dashboard con reportes en tiempo real y UI optimizada con modo oscuro nativo.
       </p>
       <div align="center">
-        <a href="https://github.com/Antonela89/biblioteca-next" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
-        <a href="https://biblioteca-next-web-git-main-antonela89s-projects.vercel.app/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
+        <a href="https://github.com/Antonela89/biblioteca_next" style="text-decoration: none;"><img src="https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://biblioteca-next-web.vercel.app" style="text-decoration: none;"><img src="https://img.shields.io/badge/Demo-En_Vivo-38B2AC?style=for-the-badge&logo=vercel" alt="Demo" /></a>
       </div>
     </td>
   </tr>
